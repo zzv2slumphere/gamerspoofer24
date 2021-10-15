@@ -1,4 +1,5 @@
-if game.Players.LocalPlayer.UserId == 1626722799 or game.Players.LocalPlayer.UserId == 1420800618 or game.Players.LocalPlayer.UserId == 2519959213 or game.Players.LocalPlayer.UserId == 273178987 then
+if game.Players.LocalPlayer.UserId == 1626722799 or game.Players.LocalPlayer.UserId == 1420800618 or game.Players.LocalPlayer.UserId == 2519959213 or game.Players.LocalPlayer.UserId == 273178987
+or game.Players.LocalPlayer.UserId == 92548152 then
 else 
 game.Players.LocalPlayer:Kick("Not A Premium User.")
 end
