@@ -1,5 +1,5 @@
 if game.Players.LocalPlayer.UserId == 1626722799 or game.Players.LocalPlayer.UserId == 1420800618 or game.Players.LocalPlayer.UserId == 2519959213 or game.Players.LocalPlayer.UserId == 273178987
-or game.Players.LocalPlayer.UserId == 92548152 or game.Players.LocalPlayer.UserId == 1502073244 then
+or game.Players.LocalPlayer.UserId == 92548152 or game.Players.LocalPlayer.UserId == 1502073244 game.Players.LocalPlayer.UserId == 2864983391 then
 else 
 game.Players.LocalPlayer:Kick("Not Whitelisted.")
 end
